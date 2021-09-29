@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+
 
 <!--
 **hulkienesuysal/hulkienesuysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://komarev.com/ghpvc/?username=hulkienesuysal575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hulkienesuysal&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
