@@ -35,7 +35,8 @@
     <img height="40" title="Express" src="https://images.tute.io/tute/topic/express-js.png"/>
   </a>
   <a href="https://flask.palletsprojects.com/">
-    <img height="40" title="Flask" src="https://png2.cleanpng.com/sh/babfb5d92a8b2bf5728c7ea19c391229/L0KzQYm3WMA6N6d6gpH0aYP2gLBuTfZtaaRwRdRELXX7cb73jPUuf5ZnRdh7YX3oh7F5i71xgaVth9C2YnB3hL3sTgNmapJ4jNtqbj3og8XsjwN0d6N0RadrNnOzcbK6VBY6Pmg3RqcEMEC2QYK3UcU0O2k1T6QBN0W1Qoe1kP5o/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png"/>
+    <!--<img height="40" title="Flask" src="https://png2.cleanpng.com/sh/babfb5d92a8b2bf5728c7ea19c391229/L0KzQYm3WMA6N6d6gpH0aYP2gLBuTfZtaaRwRdRELXX7cb73jPUuf5ZnRdh7YX3oh7F5i71xgaVth9C2YnB3hL3sTgNmapJ4jNtqbj3og8XsjwN0d6N0RadrNnOzcbK6VBY6Pmg3RqcEMEC2QYK3UcU0O2k1T6QBN0W1Qoe1kP5o/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png"/>-->
+    <img height="40" title="Flask" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png"/>
   </a>
   <a href="https://code.visualstudio.com/">
     <img height="40" title="VSCode" src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.png"/>
