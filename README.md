@@ -49,6 +49,9 @@
   <a href="https://www.heroku.com/">
     <img height="40" title="Heroku" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/heroku.png"/>
   </a>
+  <a href="https://replit.com/">
+    <img height="40" title="Replit" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/replit.png"/>
+  </a>
   <a href="https://ubuntu.com/">
     <img height="40" title="Ubuntu" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/ubuntu.png"/>
   </a>
