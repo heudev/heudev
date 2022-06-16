@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/hi.gif" width="25px">
+## Hi there <img src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/hi.gif" width="35">
 
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
 
