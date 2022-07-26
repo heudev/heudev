@@ -1,5 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/hi.gif" width="35">
 
+<p>I'm a computer engineering student. I am interested in operating systems, automation systems and backend development. I have worked and continue to work on many projects within my own skills and interests, where I can transform the theoretical knowledge I have learned throughout my education life into practice. I love learning and I continue to add something new to myself every day.</p>
+
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
 
 ## ⚒️ Technologies & Tools
@@ -57,6 +59,19 @@
   </a>
   <a href="https://www.kali.org/">
     <img height="40" title="Kali Linux" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/kalilinux.png"/>
+  </a>
+</div>
+
+## 📡 My Accounts
+<div>
+  <a href="https://www.linkedin.com/in/hulkienesuysal/" target="blank">
+    <img height="40" title="Linkedin" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/linkedin.png"/>
+  </a>
+  <a href="https://discord.com/users/638003918424768562" target="blank">
+    <img height="40" title="Discord" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/discord.png"/>
+  </a>
+  <a href="https://open.spotify.com/user/kdzdl6p3malq4baby6t75bqcr" target="blank">
+    <img height="40" title="Spotify" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/spotify.png"/>
   </a>
 </div>
 
