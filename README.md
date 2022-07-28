@@ -5,6 +5,7 @@
 <p>I'm a computer engineering student. I am interested in operating systems, automation systems and backend development. I have worked and continue to work on many projects within my own skills and interests, where I can transform the theoretical knowledge I have learned throughout my education life into practice. I love learning and I continue to add something new to myself every day.</p>
 
 > #### **I deal with** _Web Design_, _Back-End Development_, _Automation System_, _Bot Development_, _Web Scrapping_, _Network Design_
+>> #### **I am trying to learn** _Mobil Development_, _Artificial Intelligence_
 
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
 
