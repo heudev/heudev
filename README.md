@@ -2,69 +2,39 @@
 
 <img src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/responsive.gif" align="left" width="150">
 
-<p>I'm a computer engineering student. I am interested in operating systems, automation systems and backend development. I have worked and continue to work on many projects within my own skills and interests, where I can transform the theoretical knowledge I have learned throughout my education life into practice. I love learning and I continue to add something new to myself every day.</p>
+<p>I am a computer engineer and software developer. I have worked and continue to work on many projects within my own skills and interests, where I can transform the theoretical knowledge I have learned throughout my education life into practice. I love learning and I continue to add something new to myself every day.</p>
+<br>
 
-> #### **I deal with** _Web Design_, _Back-End Development_, _Automation System_, _Bot Development_, _Web Scraping_, _Network Design_
->> #### **I am trying to learn** _Mobil Development_, _Artificial Intelligence_
+> #### **I am interested in** _Web Design_, _Back-End Development_, _Automation Systems_, _Bot Development_, _Web Scraping_
+>> #### **I am learning** _Mobil Development_, _Artificial Intelligence_
 
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
 
 ## ⚒️ Technologies & Tools
 <div>
-  <a href="https://www.python.org/" target="_blank">
-    <img height="40" title="Python" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/python.png"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img height="40" title="Javascript" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/javascript.png"/>
-  </a>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-    <img height="40" title="HTML" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/html.png"/>
-  </a>
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank">
-    <img height="40" title="CSS" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/css.png"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img height="40" title="Bootstrap" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/bootstrap.png"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img height="40" title="React" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/react.png"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img height="40" title="MongoDb" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/mongodb.png"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img height="40" title="Nodejs" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/nodejs.png"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img height="40" title="Npm" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/npm.png"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img height="40" title="Express" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/express-js.png"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img height="40" title="Flask" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/flask.png"/>
-  </a>
-  <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank">
-    <img height="40" title="Discord" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/discord.jpg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img height="40" title="VSCode" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/vscode.png"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img height="40" title="Git" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/git.png"/>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank">
-    <img height="40" title="Heroku" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/heroku.png"/>
-  </a>
-  <a href="https://replit.com/" target="_blank">
-    <img height="40" title="Replit" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/replit.png"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank">
-    <img height="40" title="Ubuntu" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/ubuntu.png"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img height="40" title="Kali Linux" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/kalilinux.png"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=python" title="Python">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=react" title="React.js">
+    <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery">
+    <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
+    <img src="https://skillicons.dev/icons?i=django" title="Django">
+    <img src="https://skillicons.dev/icons?i=flask" title="Flask">
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mysql" title="Mysql">
+    <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite">
+    <img src="https://skillicons.dev/icons?i=electron" title="Electron.js">
+    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium">
+    <img src="https://skillicons.dev/icons?i=git" title="Git">
+    <img src="https://skillicons.dev/icons?i=heroku" title="Heroku">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
 </div>
 
 ## 📡 My Accounts
