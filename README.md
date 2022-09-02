@@ -4,6 +4,7 @@
 
 <p>I am a computer engineer and software developer. I have worked and continue to work on many projects within my own skills and interests, where I can transform the theoretical knowledge I have learned throughout my education life into practice. I love learning and I continue to add something new to myself every day.</p>
 
+<br>
 
 ```javascript
 const interested_in = ["Web Design", "Back-End Development", "Automation Systems", "Bot Development", "Web Scraping"]
