@@ -21,7 +21,6 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
     <img src="https://skillicons.dev/icons?i=react" title="React.js">
-    <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js">
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
@@ -32,10 +31,7 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
     <img src="https://skillicons.dev/icons?i=flask" title="Flask">
     <img src="https://skillicons.dev/icons?i=express" title="Express.js">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mysql" title="Mysql">
-    <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite">
-    <img src="https://skillicons.dev/icons?i=electron" title="Electron.js">
     <img src="https://skillicons.dev/icons?i=selenium" title="Selenium">
     <img src="https://skillicons.dev/icons?i=git" title="Git">
     <img src="https://skillicons.dev/icons?i=heroku" title="Heroku">
@@ -52,6 +48,9 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
   </a>
   <a href="https://open.spotify.com/user/kdzdl6p3malq4baby6t75bqcr" target="_blank">
     <img height="50" title="Spotify" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/spotify.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCIRkcFhviYCHj68Z-8EdsNw" target="_blank">
+    <img height="50" title="Youtube" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/youtube.png"/>
   </a>
 </div>
 
