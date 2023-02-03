@@ -40,23 +40,23 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
 
 ## 📡 My Accounts
 <div>
-  <a href="https://www.instagram.com/enes.log" target="_blank">
-    <img height="50" title="Instagram" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/instagram.png"/>
-  </a>
   <a href="https://www.linkedin.com/in/hulkienesuysal/" target="_blank">
-    <img height="50" title="Linkedin" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/linkedin.png"/>
+    <img height="50" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
   </a>
   <a href="https://www.twitter.com/heudev" target="_blank">
-    <img height="50" title="Twitter" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/twitter.png"/>
+    <img height="50" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png"/>
+  </a>
+  <a href="https://www.instagram.com/enes.log" target="_blank">
+    <img height="50" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png"/>
   </a>
   <a href="https://discord.com/users/638003918424768562" target="_blank">
-    <img height="50" title="Discord" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/discord.png"/>
+    <img height="50" title="Discord" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/>
   </a>
   <a href="https://open.spotify.com/user/kdzdl6p3malq4baby6t75bqcr" target="_blank">
-    <img height="50" title="Spotify" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/spotify.png"/>
+    <img height="50" title="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png"/>
   </a>
   <a href="https://www.youtube.com/channel/UCIRkcFhviYCHj68Z-8EdsNw" target="_blank">
-    <img height="50" title="Youtube" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/youtube.png"/>
+    <img height="50" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"/>
   </a>
 </div>
 
