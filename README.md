@@ -40,8 +40,14 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
 
 ## 📡 My Accounts
 <div>
+  <a href="https://www.instagram.com/enes.log" target="_blank">
+    <img height="50" title="Instagram" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/instagram.png"/>
+  </a>
   <a href="https://www.linkedin.com/in/hulkienesuysal/" target="_blank">
     <img height="50" title="Linkedin" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/linkedin.png"/>
+  </a>
+  <a href="https://www.twitter.com/heudev" target="_blank">
+    <img height="50" title="Twitter" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/twitter.png"/>
   </a>
   <a href="https://discord.com/users/638003918424768562" target="_blank">
     <img height="50" title="Discord" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/discord.png"/>
