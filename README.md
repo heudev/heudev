@@ -21,20 +21,20 @@ const learning = ["Mobile Development", "Artificial Intelligence"]
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
     <img src="https://skillicons.dev/icons?i=react" title="React.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js">
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=mui" title="MUI">
     <img src="https://skillicons.dev/icons?i=jquery" title="jQuery">
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
-    <img src="https://skillicons.dev/icons?i=django" title="Django">
     <img src="https://skillicons.dev/icons?i=flask" title="Flask">
     <img src="https://skillicons.dev/icons?i=express" title="Express.js">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB">
     <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite">
     <img src="https://skillicons.dev/icons?i=selenium" title="Selenium">
     <img src="https://skillicons.dev/icons?i=git" title="Git">
-    <img src="https://skillicons.dev/icons?i=heroku" title="Heroku">
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
 </div>
 
