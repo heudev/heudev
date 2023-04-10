@@ -9,9 +9,6 @@
 ```javascript
 const interested_in = ["Web Design", "Back-End Development", "Automation Systems", "Bot Development", "Web Scraping", "Hardware"]
 ```
-```javascript
-const learning = ["Mobile Development", "Artificial Intelligence"]
-```
 
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
 
