@@ -24,8 +24,6 @@ const interested_in = ["Web Design", "Back-End Development", "Automation Systems
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS">
     <img src="https://skillicons.dev/icons?i=mui" title="MUI">
-    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery">
-    <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
     <img src="https://skillicons.dev/icons?i=flask" title="Flask">
     <img src="https://skillicons.dev/icons?i=express" title="Express.js">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB">
