@@ -4,7 +4,9 @@
     <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript">
     <img src="https://skillicons.dev/icons?i=react" title="React.js">
+    <img src="https://skillicons.dev/icons?i=next" title="Next.js">
     <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=electron" title="Electron.js">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
     <img src="https://skillicons.dev/icons?i=express" title="Express.js">
     <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB">
