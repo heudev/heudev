@@ -34,10 +34,11 @@ enes.currently = [
 ];
 
 enes.stack = {
-  languages: ["JavaScript", "TypeScript"],
+  languages: ["JavaScript", "TypeScript", "Python"],
   frontend:  ["React", "Next.js", "Tailwind", "Electron"],
-  backend:   ["Node.js", "Express", "MongoDB", "Firebase"],
-  devops:    ["Docker", "GCP", "Selenium", "Git"],
+  backend:   ["Node.js", "Express", "Socket.IO"],
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  infra:     ["GCP", "Docker"]
 };
 
 enes.recharge = () => listen("blues") && play("guitar");
