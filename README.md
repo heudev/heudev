@@ -1,21 +1,44 @@
-## ⚒️ Tech Stack
+```javascript
+"use creativity";
+import { Person } from "türkiye/izmir";
 
-<div>
-    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=react" title="React.js">
-    <img src="https://skillicons.dev/icons?i=next" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=electron" title="Electron.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=express" title="Express.js">
-    <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase">
-    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium">
-    <img src="https://skillicons.dev/icons?i=git" title="Git">
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker">
-</div>
+const enes = new Person({
+  name: "Enes Uysal",
+  title: "Software Engineer",
+  email: "enes@enes.run",
+  website: "https://enes.run",
+  cv: "https://cv.enes.run",
+});
 
-<img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heudev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
+enes.links = {
+  linkedin: "https://linkedin.enes.run",
+  instagram: "https://instagram.enes.run",
+  spotify: "https://spotify.enes.run",
+};
 
-<img src="https://komarev.com/ghpvc/?username=heudev575&label=Views&color=brightgreen&style=flat-square" alt="views on github"/>
+enes.showcase = [
+  { url: "https://forum.ieu.app",    what: "Community platform for İzmir University of Economics · 8,000+ members" },
+  { url: "https://ieu.app",          what: "Course timetable generator · used by nearly the entire university" },
+  { url: "https://timetabler.app",   what: "Timetable planning · generalized for any university" },
+  { url: "https://msku.org",         what: "Community platform for Muğla Sıtkı Koçman University" },
+  { url: "https://dokuzeylul.net",   what: "Community platform for Dokuz Eylül University" },
+  { url: "https://ege.uniforum.app", what: "Community platform for Ege University" },
+  { url: "https://dersanalizi.com",  what: "Transcript-based graduation planning · students across Türkiye" },
+];
+
+enes.currently = [
+  "Building AI-powered exam evaluation software @ IEU Faculty of Engineering",
+  "Developing an LMS platform with workflow automations @ Campus Global",
+];
+
+enes.stack = {
+  languages: ["JavaScript", "TypeScript"],
+  frontend:  ["React", "Next.js", "Tailwind", "Electron"],
+  backend:   ["Node.js", "Express", "MongoDB", "Firebase"],
+  devops:    ["Docker", "GCP", "Selenium", "Git"],
+};
+
+enes.recharge = () => listen("blues") && play("guitar");
+
+export default enes;
+```
