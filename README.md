@@ -5,12 +5,14 @@ import { Person } from "türkiye/izmir";
 const enes = new Person({
   name: "Enes Uysal",
   title: "Software Engineer",
-  email: "enes@enes.run",
-  website: "https://enes.run",
-  cv: "https://cv.enes.run",
+  experience: "4+ years",
+  education: "Computer Engineering @ İzmir University of Economics",
+  email: "enes@enes.run"
 });
 
 enes.links = {
+  website: "https://enes.run",
+  cv: "https://cv.enes.run",
   linkedin: "https://linkedin.enes.run",
   instagram: "https://instagram.enes.run",
   spotify: "https://spotify.enes.run",
